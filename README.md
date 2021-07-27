@@ -8,7 +8,7 @@
 
 - 🔭 I’m currently working on **Final Year Project**
 
-- 🌱 I’m currently learning **Anguler and Backend APIs**
+- 🌱 I’m currently learning **Angular and Backend APIs**
 
 - 📫 How to reach me **ulkeshwani007@gmail.com**
 
