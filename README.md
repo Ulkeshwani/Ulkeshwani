@@ -2,9 +2,9 @@
 <h1 align="center">Hi 👋, This is Ulkesh</h1>
 <h3 align="center">I’m interested in Cross-Platform Development, ReactJS, React-Native(Android Dev) , Software Development.</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=Ulkeshwani&label=Profile%20views&color=0e75b6&style=flat" alt="Ulkeshwani" /> </p>
+<!-- <p align="left"> <img src="https://komarev.com/ghpvc/?username=Ulkeshwani&label=Profile%20views&color=0e75b6&style=flat" alt="Ulkeshwani" /> </p>
 
-<p align="left" class="trophy"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=Ulkeshwani" alt="Ulkeshwani" /></a> </p>
+<p align="left" class="trophy"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=Ulkeshwani" alt="Ulkeshwani" /></a> </p> -->
 
 - 🔭 I’m currently working on **Final Year Project**
 
@@ -21,7 +21,7 @@
     Ulkesh Wani
   </a>
 
-<h3 align="left">Languages and Tools:</h3>
+<!-- <h3 align="left">Languages and Tools:</h3>
 <p align="left"> 
   <a href="https://reactjs.org/" target="_blank"> 
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" alt="xd" width="40" height="40"/> 
@@ -53,7 +53,7 @@
   <a href="https://www.adobe.com/products/xd.html" target="_blank"> 
     <img src="https://cdn.worldvectorlogo.com/logos/adobe-xd.svg" alt="xd" width="40" height="40"/> 
   </a>
-</p>
+</p> -->
 <p><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ulkeshwani&layout=compact" alt="Ulkesh"/>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=Ulkeshwani&show_icons=true&locale=en" alt="Ulkeshwani" /></p>
