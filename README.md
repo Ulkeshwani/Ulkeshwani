@@ -10,7 +10,7 @@
 
 - 📫 How to reach me **ulkeshwani007@gmail.com**
 
-- 📄 Know about my experiences [Have A Look](https://drive.google.com/file/d/1HzT7foxJ44T-Qao3cOEZHyZcQlxAiByf/view?usp=sharing)
+- 📄 Know about my experiences
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
