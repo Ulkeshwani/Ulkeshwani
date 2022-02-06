@@ -1,6 +1,6 @@
 
 <h1 align="center">Hi 👋, This is Ulkesh</h1>
-<h3 align="center">I’m interested in Cross-Platform Frontend  Development, ReactJS, React-Native(Android Dev) , Software Development.</h3>
+<h3 align="center">I’m interested in Cross-Platform Frontend Development using React.JS, React-Native, Next.js </h3>
 
 <!-- <p align="left"> <img src="https://komarev.com/ghpvc/?username=Ulkeshwani&label=Profile%20views&color=0e75b6&style=flat" alt="Ulkeshwani" /> </p>
 
