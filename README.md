@@ -21,6 +21,6 @@ I've Been Learning Web Developement and implementing for 3 years. i am readlly f
 
 <a href="http://www.github.com/Ulkeshwani"><img src="https://github-readme-stats.vercel.app/api?username=Ulkeshwani&theme=dark&show_icons=true" alt="Ulkeshwani's GitHub stats" /></a>
 
-<a href="http://www.github.com/Ulkeshwani"><img src="https://github-readme-streak-stats.herokuapp.com/?user=Ulkeshwani&stroke=ffffff&background=green&ring=white&fire=0891b2&currStreakNum=ffffff&currStreakLabel=0891b2&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
+<a href="http://www.github.com/Ulkeshwani"><img src="https://github-readme-streak-stats.herokuapp.com/?user=Ulkeshwani&stroke=ffffff&background=black&ring=white&fire=0891b2&currStreakNum=ffffff&currStreakLabel=0891b2&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
 
 <div width="100%" align="center"></div><br /><br /><br /><br /><br /><br /><br />
