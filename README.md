@@ -19,7 +19,7 @@ I've Been Learning Web Developement and implementing for 3 years. i am readlly f
 
 <b>My GitHub Stats</b>
 
-<a href="http://www.github.com/Ulkeshwani"><img src="https://github-readme-stats.vercel.app/api?username=Ulkeshwani&show_icons=true&hide=&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=green&hide_border=true&show_icons=true" alt="Ulkeshwani's GitHub stats" /></a>
+<a href="http://www.github.com/Ulkeshwani"><img src="https://github-readme-stats.vercel.app/api?username=Ulkeshwani&show_icons=true&hide=&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=white&hide_border=true&show_icons=true" alt="Ulkeshwani's GitHub stats" /></a>
 
 <a href="http://www.github.com/Ulkeshwani"><img src="https://github-readme-streak-stats.herokuapp.com/?user=Ulkeshwani&stroke=ffffff&background=green&ring=white&fire=0891b2&currStreakNum=ffffff&currStreakLabel=0891b2&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
 
