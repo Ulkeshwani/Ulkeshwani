@@ -1,15 +1,8 @@
 Hi 👋 My name is Ulkesh
 =======================
 
-Web Developer and UI/UX Designer
+DSE - L1 At @infosys
 --------------------------------
-
-I've Been Learning Web Development and implementation for 3 years. I have really found a passion for Software Development.
-
-* 🌍  I'm based in India
-* ✉️  You can contact me at [ulkeshwani007@gmail.com](mailto:ulkeshwani007@gmail.com)
-* 🧠  I'm learning Backend development with MERN Stack 🔨
-* ⚡  I Love Storyline Games, I always Have Fun playing them, Also love to Play-Cricket.
 
 ### Socials
 
