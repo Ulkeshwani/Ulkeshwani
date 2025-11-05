@@ -1,19 +1,23 @@
-Hi 👋 My name is Ulkesh
-=======================
+# 👨‍💻 Ulkesh – Frontend Engineer | Cross-Platform Developer
 
-DSE - L1 At @infosys
---------------------------------
+I'm Ulkesh, a frontend engineer with 3+ years of experience building robust, reusable, and edge-case-proof solutions across web and mobile platforms.
 
-### Socials
+## 🧠 Tech Stack
 
-<p align="left"> <a href="https://www.github.com/Ulkeshwani" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /></a> <a href="https://www.linkedin.com/in/ulkesh-wani-364230151/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a></p>
+- **Languages:** JavaScript, TypeScript, C++, Java
+- **Web Frameworks:** React.js, Next.js, Angular
+- **Mobile Frameworks / Libraries:** React Native, Expo, Ionic, Capacitor, Apache Cordova, Android
+- **Strengths:** Debugging, edge case handling, reusable architecture, HLSD.
 
-### Badges
+## 🚀 What I Do
 
-<b>My GitHub Stats</b>
+I engineer resilient, cross-platform interfaces that don’t just look good—they handle the weird stuff. From crafting reusable components.
 
-<a href="http://www.github.com/Ulkeshwani"><img src="https://github-readme-stats.vercel.app/api?username=Ulkeshwani&theme=dark&show_icons=true" alt="Ulkeshwani's GitHub stats" /></a>
+- 🧩 Architect reusable UI systems for web and mobile
+- 🛠️ Debug complex issues and build custom solutions for non-standard behaviors
+- 📱 Optimize performance across React Native, Ionic, and hybrid stacks
 
-<a href="http://www.github.com/Ulkeshwani"><img src="https://github-readme-streak-stats.herokuapp.com/?user=Ulkeshwani&stroke=ffffff&background=262729&ring=white&fire=0891b2&currStreakNum=ffffff&currStreakLabel=0891b2&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
+## 📫 Let's Connect
 
-<div width="100%" align="center"></div><br /><br /><br /><br /><br /><br /><br />
+- 💼 [LinkedIn](https://www.linkedin.com/in/ulkeshwani)
+- 📬 Email: ulkeshwani007@gmail.com
