@@ -1,6 +1,6 @@
 # 👨‍💻 Ulkesh – Frontend Engineer | Cross-Platform Developer
 
-I'm Ulkesh, a frontend engineer with 3+ years of experience building robust, reusable, and edge-case-proof solutions across web and mobile platforms.
+I'm Ulkesh, a frontend engineer with 4+ years of experience building robust, reusable, and edge-case-proof solutions across web and mobile platforms.
 
 ## 🧠 Tech Stack
 
